@@ -1,0 +1,13 @@
+D:\TeknoShopiaNetCoreWebApi\ETicaretAPI\Core\ETicaretAPI.Domain\bin\Debug\net8.0\ETicaretAPI.Domain.deps.json
+D:\TeknoShopiaNetCoreWebApi\ETicaretAPI\Core\ETicaretAPI.Domain\bin\Debug\net8.0\ETicaretAPI.Domain.dll
+D:\TeknoShopiaNetCoreWebApi\ETicaretAPI\Core\ETicaretAPI.Domain\bin\Debug\net8.0\ETicaretAPI.Domain.pdb
+D:\TeknoShopiaNetCoreWebApi\ETicaretAPI\Core\ETicaretAPI.Domain\obj\Debug\net8.0\ETicaretAPI.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\TeknoShopiaNetCoreWebApi\ETicaretAPI\Core\ETicaretAPI.Domain\obj\Debug\net8.0\ETicaretAPI.Domain.AssemblyInfoInputs.cache
+D:\TeknoShopiaNetCoreWebApi\ETicaretAPI\Core\ETicaretAPI.Domain\obj\Debug\net8.0\ETicaretAPI.Domain.AssemblyInfo.cs
+D:\TeknoShopiaNetCoreWebApi\ETicaretAPI\Core\ETicaretAPI.Domain\obj\Debug\net8.0\ETicaretAPI.Domain.csproj.CoreCompileInputs.cache
+D:\TeknoShopiaNetCoreWebApi\ETicaretAPI\Core\ETicaretAPI.Domain\obj\Debug\net8.0\ETicaretAPI.Domain.dll
+D:\TeknoShopiaNetCoreWebApi\ETicaretAPI\Core\ETicaretAPI.Domain\obj\Debug\net8.0\refint\ETicaretAPI.Domain.dll
+D:\TeknoShopiaNetCoreWebApi\ETicaretAPI\Core\ETicaretAPI.Domain\obj\Debug\net8.0\ETicaretAPI.Domain.pdb
+D:\TeknoShopiaNetCoreWebApi\ETicaretAPI\Core\ETicaretAPI.Domain\obj\Debug\net8.0\ref\ETicaretAPI.Domain.dll
+D:\TeknoShopiaNetCoreWebApi\ETicaretAPI\Core\ETicaretAPI.Domain\bin\Debug\net8.0\ETicaretAPI.Domain.runtimeconfig.json
+D:\TeknoShopiaNetCoreWebApi\ETicaretAPI\Core\ETicaretAPI.Domain\obj\Debug\net8.0\ETicaretAPI.Domain.genruntimeconfig.cache

@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ETicaretAPI.Application/1.0.0": {
+        "dependencies": {
+          "ETicaretAPI.Domain": "1.0.0"
+        },
+        "runtime": {
+          "ETicaretAPI.Application.dll": {}
+        }
+      },
+      "ETicaretAPI.Domain/1.0.0": {
+        "runtime": {
+          "ETicaretAPI.Domain.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ETicaretAPI.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ETicaretAPI.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

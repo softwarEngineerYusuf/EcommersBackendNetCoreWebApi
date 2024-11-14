@@ -1,0 +1,17 @@
+D:\TeknoShopiaNetCoreWebApi\ETicaretAPI\Infrastructure\ETicaretAPI.Infrastructure\bin\Debug\net8.0\ETicaretAPI.Infrastructure.deps.json
+D:\TeknoShopiaNetCoreWebApi\ETicaretAPI\Infrastructure\ETicaretAPI.Infrastructure\bin\Debug\net8.0\ETicaretAPI.Infrastructure.dll
+D:\TeknoShopiaNetCoreWebApi\ETicaretAPI\Infrastructure\ETicaretAPI.Infrastructure\bin\Debug\net8.0\ETicaretAPI.Infrastructure.pdb
+D:\TeknoShopiaNetCoreWebApi\ETicaretAPI\Infrastructure\ETicaretAPI.Infrastructure\bin\Debug\net8.0\ETicaretAPI.Application.dll
+D:\TeknoShopiaNetCoreWebApi\ETicaretAPI\Infrastructure\ETicaretAPI.Infrastructure\bin\Debug\net8.0\ETicaretAPI.Domain.dll
+D:\TeknoShopiaNetCoreWebApi\ETicaretAPI\Infrastructure\ETicaretAPI.Infrastructure\bin\Debug\net8.0\ETicaretAPI.Application.pdb
+D:\TeknoShopiaNetCoreWebApi\ETicaretAPI\Infrastructure\ETicaretAPI.Infrastructure\bin\Debug\net8.0\ETicaretAPI.Domain.pdb
+D:\TeknoShopiaNetCoreWebApi\ETicaretAPI\Infrastructure\ETicaretAPI.Infrastructure\obj\Debug\net8.0\ETicaretAPI.Infrastructure.csproj.AssemblyReference.cache
+D:\TeknoShopiaNetCoreWebApi\ETicaretAPI\Infrastructure\ETicaretAPI.Infrastructure\obj\Debug\net8.0\ETicaretAPI.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\TeknoShopiaNetCoreWebApi\ETicaretAPI\Infrastructure\ETicaretAPI.Infrastructure\obj\Debug\net8.0\ETicaretAPI.Infrastructure.AssemblyInfoInputs.cache
+D:\TeknoShopiaNetCoreWebApi\ETicaretAPI\Infrastructure\ETicaretAPI.Infrastructure\obj\Debug\net8.0\ETicaretAPI.Infrastructure.AssemblyInfo.cs
+D:\TeknoShopiaNetCoreWebApi\ETicaretAPI\Infrastructure\ETicaretAPI.Infrastructure\obj\Debug\net8.0\ETicaretAPI.Infrastructure.csproj.CoreCompileInputs.cache
+D:\TeknoShopiaNetCoreWebApi\ETicaretAPI\Infrastructure\ETicaretAPI.Infrastructure\obj\Debug\net8.0\ETicaret.21F566A7.Up2Date
+D:\TeknoShopiaNetCoreWebApi\ETicaretAPI\Infrastructure\ETicaretAPI.Infrastructure\obj\Debug\net8.0\ETicaretAPI.Infrastructure.dll
+D:\TeknoShopiaNetCoreWebApi\ETicaretAPI\Infrastructure\ETicaretAPI.Infrastructure\obj\Debug\net8.0\refint\ETicaretAPI.Infrastructure.dll
+D:\TeknoShopiaNetCoreWebApi\ETicaretAPI\Infrastructure\ETicaretAPI.Infrastructure\obj\Debug\net8.0\ETicaretAPI.Infrastructure.pdb
+D:\TeknoShopiaNetCoreWebApi\ETicaretAPI\Infrastructure\ETicaretAPI.Infrastructure\obj\Debug\net8.0\ref\ETicaretAPI.Infrastructure.dll
