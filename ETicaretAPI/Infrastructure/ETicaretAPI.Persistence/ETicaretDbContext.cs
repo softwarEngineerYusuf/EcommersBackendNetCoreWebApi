@@ -1,4 +1,4 @@
-﻿using ETicaretAPI.Domain.Entities;
+﻿ using ETicaretAPI.Domain.Entities;
 using Microsoft.EntityFrameworkCore;
 
 namespace ETicaretAPI.Infrastructure

@@ -11,6 +11,8 @@ namespace ETicaretAPI.API
         {
             var builder = WebApplication.CreateBuilder(args);
 
+            // Altyapý servislerini ekliyoruz
+            builder.Services.AddInfrastructureServices(builder.Configuration);
             // Servisleri DI container'a ekliyoruz
             builder.Services.AddControllers();
             builder.Services.AddEndpointsApiExplorer();
@@ -18,8 +20,7 @@ namespace ETicaretAPI.API
 
            
 
-            // Altyapý servislerini ekliyoruz
-            builder.Services.AddInfrastructureServices(builder.Configuration);  
+           
 
             var app = builder.Build();
 
